@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DAA-Lab04</string>
+    <string name="late">Late</string>
+    <string name="today">Today</string>
+    <string name="months">%1$d months</string>
+    <string name="weeks">%1$d weeks</string>
+    <string name="days">%1$d days</string>
+    <string name="creation_date">Creation date</string>
+    <string name="eta">ETA</string>
+    <string name="generate">Generate</string>
+    <string name="delete_all">Delete all</string>
+    <string name="sort">sort</string>
+    <string name="item_image">item image</string>
+    <string name="clock_image">clock image</string>
+</resources>

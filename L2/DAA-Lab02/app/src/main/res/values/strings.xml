@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DAA-LAB02</string>
+    <string name="welcomeQuestion">Bienvenue, veuillez entrez votre nom</string>
+    <string name="welcomeWithName">Bienvenue %1$s</string>
+    <string name="edit">Editer</string>
+    <string name="save">Sauver</string>
+    <string name="back">Back</string>
+    <string name="close">Close</string>
+    <string name="next">Next</string>
+    <string name="step">Step %1$d</string>
+</resources>

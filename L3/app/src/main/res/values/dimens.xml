@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="layout_margins">10dp</dimen>
+    <dimen name="guideline_pos">225dp</dimen>
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="textView_size">15sp</dimen>
+    <dimen name="margin_around_spinner">15dp</dimen>
+    <dimen name="remarks_margin">20dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DAA-Lab05</string>
+    <string name="recyclerview_item">RecyclerView Item</string>
+    <string name="refresh_txt">Refresh</string>
+    <string name="full_screen_image_desc">Full screen image\n</string>
+    <string name="return_txt">Back</string>
+</resources>
